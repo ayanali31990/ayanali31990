@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ayan Ali</h1>
-<h3 align="center">Frontend Developer | MERN Stack | React + Tailwind CSS</h3>
+<h3 align="center">Frontend Developer | MERN Stack</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayanali31990&label=Profile%20Views&color=red&style=flat" />
@@ -39,7 +39,7 @@
 ### 🧰 Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-icon-svg-download-png-3073768.png?f=webp" width="42"/>
 </p>
 
 ---
