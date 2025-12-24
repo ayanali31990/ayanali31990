@@ -57,22 +57,6 @@ Things I build:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanali31990&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanali31990&layout=compact&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanali31990&theme=default" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
