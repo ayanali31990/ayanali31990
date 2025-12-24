@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanali31990" alt="ayanali31990" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,REACTJS,NODEJS,EXPRESSJS,MONGODB,TAILWIND CSS**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB, TAILWIND CSS**
 
 - 👨‍💻 All of my projects are available at [https://ayan-portfolio-neon.vercel.app/#skills](https://ayan-portfolio-neon.vercel.app/#skills)
 
